@@ -1,0 +1,5 @@
+{
+  "name": "Sparrow Cafes Lisbon AI Management",
+  "description": "An AI-powered restaurant management system for Sparrow Cafes Lisbon. It assists with managing reservations, enhancing menu creation, and providing business insights using the Gemini API.",
+  "requestFramePermissions": []
+}
